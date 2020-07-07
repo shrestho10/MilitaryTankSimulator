@@ -13,6 +13,7 @@
   <p> Loads of military tanks are there.They will try to kill the player tank</p>
 <img src='Screenshots/Screenshot_11.png' >
   <p>Helicopters and Other firing structures are also been implemented</p>
+  <img src='Screenshots/Screenshot_14.png' >
 <img src='Screenshots/Screenshot_5.png' >
 <img src='Screenshots/Screenshot_6.png' >
 <img src='Screenshots/Screenshot_7.png' >
